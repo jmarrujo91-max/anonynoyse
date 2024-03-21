@@ -1,0 +1,235 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CIJazmyneJmarrujo 
+WindowsBuildLabEx                                       : 22621.1.amd64fre.ni_release.220506-12
+                                                          50
+WindowsCurrentVersion                                   : 6.3
+WindowsEditionId                                        : Core
+WindowsInstallationType                                 : Client
+WindowsInstallDateFromRegistry                          : 1/23/2024 12:50:14 AM
+WindowsProductId                                        : 00356-07395-96603-AAOEM
+WindowsProductName                                      : Windows 10 Home
+WindowsRegisteredOrganization                           : HP
+WindowsRegisteredOwner                                  : JazmyneJosephine Mar
+WindowsSystemRoot                                       : C:\WINDOWS
+WindowsVersion                                          : 2009
+OSDisplayVersion                                        : 23H2
+BiosCharacteristics                                     : {7, 11, 12, 15...}
+BiosBIOSVersion                                         : {HPQOEM - 3, F.76, INSYDE Corp. - 
+                                                          F760000}
+BiosBuildNumber                                         : 
+BiosCaption                                             : F.76
+BiosCodeSet                                             : 
+BiosCurrentLanguage                                     : en|US|iso8859-1,0
+BiosDescription                                         : F.76
+BiosEmbeddedControllerMajorVersion                      : 76
+BiosEmbeddedControllerMinorVersion                      : 38
+BiosFirmwareType                                        : Uefi
+BiosIdentificationCode                                  : 
+BiosInstallableLanguages                                : 5
+BiosInstallDate                                         : 
+BiosLanguageEdition                                     : 
+BiosListOfLanguages                                     : {en|US|iso8859-1,0, 
+                                                          fr|FR|iso8859-1,0, 
+                                                          es|ES|iso8859-1,0, 
+                                                          zh|TW|unicode,0...}
+BiosManufacturer                                        : Insyde
+BiosName                                                : F.76
+BiosOtherTargetOS                                       : 
+BiosPrimaryBIOS                                         : True
+BiosReleaseDate                                         : 12/14/2023 4:00:00 PM
+BiosSeralNumber                                         : 5CG33749P9
+BiosSMBIOSBIOSVersion                                   : F.76
+BiosSMBIOSMajorVersion                                  : 3
+BiosSMBIOSMinorVersion                                  : 0
+BiosSMBIOSPresent                                       : True
+BiosSoftwareElementState                                : Running
+BiosStatus                                              : OK
+BiosSystemBiosMajorVersion                              : 15
+BiosSystemBiosMinorVersion                              : 76
+BiosTargetOperatingSystem                               : 0
+BiosVersion                                             : HPQOEM - 3
+CsAdminPasswordStatus                                   : Unknown
+CsAutomaticManagedPagefile                              : True
+CsAutomaticResetBootOption                              : False
+CsAutomaticResetCapability                              : True
+CsBootOptionOnLimit                                     : 
+CsBootOptionOnWatchDog                                  : 
+CsBootROMSupported                                      : True
+CsBootStatus                                            : {0, 0, 0, 39...}
+CsBootupState                                           : Normal boot
+CsCaption                                               : ANONYMOUS
+CsChassisBootupState                                    : Safe
+CsChassisSKUNumber                                      : 
+CsCurrentTimeZone                                       : -420
+CsDaylightInEffect                                      : True
+CsDescription                                           : AT/AT COMPATIBLE
+CsDNSHostName                                           : Anonymous
+CsDomain                                                : WORKGROUP
+CsDomainRole                                            : StandaloneWorkstation
+CsEnableDaylightSavingsTime                             : True
+CsFrontPanelResetStatus                                 : Unknown
+CsHypervisorPresent                                     : False
+CsInfraredSupported                                     : False
+CsInitialLoadInfo                                       : 
+CsInstallDate                                           : 
+CsKeyboardPasswordStatus                                : Unknown
+CsLastLoadInfo                                          : 
+CsManufacturer                                          : HP
+CsModel                                                 : HP Laptop 14-cf2xxx
+CsName                                                  : ANONYMOUS
+CsNetworkAdapters                                       : {Ethernet, Wi-Fi}
+CsNetworkServerModeEnabled                              : True
+CsNumberOfLogicalProcessors                             : 4
+CsNumberOfProcessors                                    : 1
+CsProcessors                                            : {Intel(R) Celeron(R) N4120 CPU @ 
+                                                          1.10GHz}
+CsOEMStringArray                                        : {$HP$, LOC#yyy, BCU_Y, ABS 70/71 78 
+                                                          79 7A 7B...}
+CsPartOfDomain                                          : False
+CsPauseAfterReset                                       : -1
+CsPCSystemType                                          : Mobile
+CsPCSystemTypeEx                                        : Mobile
+CsPowerManagementCapabilities                           : 
+CsPowerManagementSupported                              : 
+CsPowerOnPasswordStatus                                 : Unknown
+CsPowerState                                            : Unknown
+CsPowerSupplyState                                      : Safe
+CsPrimaryOwnerContact                                   : 
+CsPrimaryOwnerName                                      : JazmyneJosephine Mar
+CsResetCapability                                       : Other
+CsResetCount                                            : -1
+CsResetLimit                                            : -1
+CsRoles                                                 : {LM_Workstation, LM_Server, DialIn, 
+                                                          NT}
+CsStatus                                                : OK
+CsSupportContactDescription                             : 
+CsSystemFamily                                          : 103C_5335KV HP Notebook
+CsSystemSKUNumber                                       : 5T9T6UA#ABA
+CsSystemType                                            : x64-based PC
+CsThermalState                                          : Safe
+CsTotalPhysicalMemory                                   : 3875745792
+CsPhyicallyInstalledMemory                              : 4194304
+CsUserName                                              : Anonymous\JazmyneJosephine Mar
+CsWakeUpType                                            : PowerSwitch
+CsWorkgroup                                             : WORKGROUP
+OsName                                                  : Microsoft Windows 11 Home
+OsType                                                  : WINNT
+OsOperatingSystemSKU                                    : WindowsHome
+OsVersion                                               : 10.0.22631
+OsCSDVersion                                            : 
+OsBuildNumber                                           : 22631
+OsHotFixes                                              : {KB5034467, KB5026039, KB5027397, 
+                                                          KB5031274...}
+OsBootDevice                                            : \Device\HarddiskVolume1
+OsSystemDevice                                          : \Device\HarddiskVolume3
+OsSystemDirectory                                       : C:\WINDOWS\system32
+OsSystemDrive                                           : C:
+OsWindowsDirectory                                      : C:\WINDOWS
+OsCountryCode                                           : 1
+OsCurrentTimeZone                                       : -420
+OsLocaleID                                              : 0409
+OsLocale                                                : en-US
+OsLocalDateTime                                         : 3/20/2024 9:16:33 PM
+OsLastBootUpTime                                        : 3/16/2024 7:38:56 PM
+OsUptime                                                : 4.01:37:37.3114939
+OsBuildType                                             : Multiprocessor Free
+OsCodeSet                                               : 1252
+OsDataExecutionPreventionAvailable                      : True
+OsDataExecutionPrevention32BitApplications              : True
+OsDataExecutionPreventionDrivers                        : True
+OsDataExecutionPreventionSupportPolicy                  : OptOut
+OsDebug                                                 : False
+OsDistributed                                           : False
+OsEncryptionLevel                                       : 256
+OsForegroundApplicationBoost                            : None
+OsTotalVisibleMemorySize                                : 3784908
+OsFreePhysicalMemory                                    : 584464
+OsTotalVirtualMemorySize                                : 11307192
+OsFreeVirtualMemory                                     : 4756864
+OsInUseVirtualMemory                                    : 6550328
+OsTotalSwapSpaceSize                                    : 
+OsSizeStoredInPagingFiles                               : 7522284
+OsFreeSpaceInPagingFiles                                : 6810336
+OsPagingFiles                                           : {C:\pagefile.sys}
+OsHardwareAbstractionLayer                              : 10.0.22621.2506
+OsInstallDate                                           : 1/22/2024 4:50:14 PM
+OsManufacturer                                          : Microsoft Corporation
+OsMaxNumberOfProcesses                                  : 4294967295
+OsMaxProcessMemorySize                                  : 137438953344
+OsMuiLanguages                                          : {en-US}
+OsNumberOfLicensedUsers                                 : 
+OsNumberOfProcesses                                     : 237
+OsNumberOfUsers                                         : 2
+OsOrganization                                          : HP
+OsArchitecture                                          : 64-bit
+OsLanguage                                              : en-US
+OsProductSuites                                         : {TerminalServicesSingleSession, 
+                                                          HomeEdition}
+OsOtherTypeDescription                                  : 
+OsPAEEnabled                                            : 
+OsPortableOperatingSystem                               : False
+OsPrimary                                               : True
+OsProductType                                           : WorkStation
+OsRegisteredUser                                        : JazmyneJosephine Mar
+OsSerialNumber                                          : 00356-07395-96603-AAOEM
+OsServicePackMajorVersion                               : 0
+OsServicePackMinorVersion                               : 0
+OsStatus                                                : OK
+OsSuites                                                : {TerminalServices, 
+                                                          TerminalServicesSingleSession, 
+                                                          HomeEdition}
+OsServerLevel                                           : 
+KeyboardLayout                                          : en-US
+TimeZone                                                : (UTC-08:00) Pacific Time (US & 
+                                                          Canada)
+LogonServer                                             : \\ANONYMOUS
+PowerPlatformRole                                       : Mobile
+HyperVisorPresent                                       : False
+HyperVRequirementDataExecutionPreventionAvailable       : True
+HyperVRequirementSecondLevelAddressTranslation          : True
+HyperVRequirementVirtualizationFirmwareEnabled          : True
+HyperVRequirementVMMonitorModeExtensions                : True
+DeviceGuardSmartStatus                                  : Off
+DeviceGuardRequiredSecurityProperties                   : 
+DeviceGuardAvailableSecurityProperties                  : 
+DeviceGuardSecurityServicesConfigured                   : 
+DeviceGuardSecurityServicesRunning                      : 
+DeviceGuardCodeIntegrityPolicyEnforcementStatus         : EnforcementMode
+DeviceGuardUserModeCodeIntegrityPolicyEnforcementStatus : Off
+
+
+
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
